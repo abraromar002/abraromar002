@@ -1,4 +1,6 @@
-## Hi there 👋
+### 📈 **GitHub Profile Views**
+![Profile Views](https://komarev.com/ghpvc/?username=abraromar002&label=Profile%20views&color=brightgreen&style=flat)
+
 
 ## 👋 Hi, I'm Abrar!  
 🚀 **Data Scientist | AI Enthusiast**  
