@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me<br><br>-Artificial Intelligence graduate from Al-Balqa Applied University  <br><br>- Passionate about AI, Data Science, and experimenting with Large Language Models (LLMs)<br><br>- I enjoy building practical projects that transform data into useful insights and intelligent systems</h3>
+<h6 align="left">👩‍💻 About Me<br><br>-Artificial Intelligence graduate from Al-Balqa Applied University  <br><br>- Passionate about AI, Data Science, and experimenting with Large Language Models (LLMs)<br><br>- I enjoy building practical projects that transform data into useful insights and intelligent systems</h6>
 
 ###
 
@@ -45,6 +45,10 @@
 
 ###
 
+<img align="right" height="150" src="https://pin.it/7FGlIWaaJ"  />
+
+###
+
 <div align="left">
   <a href="abrarshamasat799@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -53,10 +57,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://pin.it/7FGlIWaaJ"  />
 
 ###
 
